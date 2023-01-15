@@ -48,9 +48,9 @@ by the academic staff.
 # Estructura del proyecto
 
 Este repositorio constiste de dos carpetas principales:
-- Escrito
+- Manual
 - Prácticas
-En la carpeta "Escrito" se encuentra el Manual de Prácticas el cual contiene toda la información relacionada al marco teórico y la metodología utilizada en este proyecto.
+En la carpeta "Manual" se encuentra el Manual de Prácticas el cual contiene toda la información relacionada al marco teórico y la metodología utilizada en este proyecto.
 
 En la carpeta "Prácticas" se encuentran todas las prácticas desarrolladas en este proyecto, cada pŕactica se encuentra en una carpeta en la que se encuentra lo siguiente:
 - Jupyter notebook donde se desarrolla paso a paso la práctica.
