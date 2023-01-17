@@ -52,7 +52,7 @@ En la carpeta "Manual" se encuentra el Manual de Prácticas el cual contiene tod
 
 En la carpeta "Prácticas" se encuentran todas las prácticas desarrolladas en este proyecto, cada pŕactica se encuentra en una carpeta en la que se encuentra lo siguiente:
 - Jupyter notebook donde se desarrolla paso a paso la práctica.
-- Archivo **.pdf** en el cual se describe la metodología y el código usado en el Jupyter notebook. En el caso de la práctica 6, este archivo no es necesario debido a que lo necesario está explicado en el Jupyter notebook.
+- Archivo **.pdf** en el cual se describe la metodología y el código usado en el Jupyter notebook. En el caso de la práctica 6, este archivo se ha omitido debido a que lo necesario está explicado en el Jupyter notebook.
 - Archivo **.md** donde se describe cómo descargar los datos utilizados en la práctica.
 
 # Prácticas
