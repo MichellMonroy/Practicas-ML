@@ -21,7 +21,6 @@ LTICS.
 El objetivo de este proyecto es el de mejorar la formación académica de los estudiantes dentro de la LTICS, 
 así como mejorar la calidad de la enseñanza de este tema por parte de los docentes.
 
-# 
 
 # Abstract
 
@@ -56,7 +55,7 @@ En la carpeta "Prácticas" se encuentran todas las prácticas desarrolladas en e
 - Jupyter notebook donde se desarrolla paso a paso la práctica.
 - Archivo **.pdf** en el cual se describe la metodología y el código usado en el Jupyter notebook.
 - Archivo **.md** donde se describe cómo descargar los datos utilizados en la práctica.
-# 
+
 # Prácticas
 | N°  Práctica | Nombre                                                     | Dataset                                         | Criterio de  Evaluación     | Descripción                                                                                                                                                                     |
 |--------------|------------------------------------------------------------|-------------------------------------------------|-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
