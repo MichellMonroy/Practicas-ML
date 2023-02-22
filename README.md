@@ -43,7 +43,7 @@ The objective of this project is to improve the academic training of students,
 within the LTICs, as well as to improve the quality of teaching of this knowledge area
 by the academic staff.
 
-# Estructura del proyecto
+# Estructura del repositorio
 
 Este repositorio constiste de dos carpetas principales:
 - Manual
@@ -54,6 +54,20 @@ En la carpeta "Prácticas" se encuentran todas las prácticas desarrolladas en e
 - Jupyter notebook donde se desarrolla paso a paso la práctica.
 - Archivo **.pdf** en el cual se describe la metodología y el código usado en el Jupyter notebook. En el caso de la práctica 6, este archivo se ha omitido debido a que lo necesario está explicado en el Jupyter notebook.
 - Archivo **.md** donde se describe cómo descargar los datos utilizados en la práctica.
+# Estructura de las prácticas
+Cada una de las prácticas presentadas en el anexo contienen las siguientes fases,
+en el orden en que se muestran:
+
+1. Objetivo de la práctica.
+2. Conceptos.
+3. Herramientas a usar.
+4. Desarrollo. <br>
+  a) Entender el Problema. <br>
+  b) Definir un criterio de evaluación. <br>
+  c) Preparar los datos. <br>
+  d) Construir el modelo. <br>
+  e) Análisis de errores. <br>
+  f) Implementación. <br>
 
 # Prácticas
 | N°  Práctica | Nombre                                                     | Dataset                                         | Criterio de  Evaluación     | Descripción                                                                                                                                                                     |
